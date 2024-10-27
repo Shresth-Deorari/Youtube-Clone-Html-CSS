@@ -2,7 +2,7 @@
 
 This project is a simple clone of YouTube's layout, developed using only HTML and CSS. It replicates the basic look and feel of YouTube's UI without any JavaScript functionality, providing a responsive and visually similar interface.
 
-![Project Screenshot](path-to-screenshot.png)
+![Project Screenshot](Project Screenshot.png)
 
 ## Table of Contents
 
